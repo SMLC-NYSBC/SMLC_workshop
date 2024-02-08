@@ -3386,7 +3386,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 #organizer-or .organizer-or-badges li a.badge-org-dg {
   width: 300px;
   height: 400px;
-  background-image: url("../images/avatars/org_dg.jpeg");
+  background-image: url("../images/avatars/org_dg.jpg");
 }
 #organizer-or .organizer-or-badges li a.badge-org-ai {
   width: 300px;
@@ -3396,7 +3396,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 #organizer-or .organizer-or-badges li a.badge-org-nj {
   width: 300px;
   height: 400px;
-  background-image: url("../images/avatars/org_nj.jpeg");
+  background-image: url("../images/avatars/org_nj.jpg");
 }
 
 /* ===================================================================
